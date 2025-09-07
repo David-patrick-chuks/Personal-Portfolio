@@ -1,7 +1,7 @@
 const socialMedia = [
   {
     name: "calcom",
-    link: "https://cal.com/aaditya-kumar-5281",
+    link: "https://cal.com/david-patrick",
   },
   {
     name: "github",
