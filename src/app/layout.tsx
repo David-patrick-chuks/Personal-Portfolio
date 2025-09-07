@@ -44,8 +44,8 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   metadataBase: new URL(getUrl),
   title: {
-    default: "Aaditya | Software Engineer | Based in India",
-    template: `%s - Aaditya | Software Engineer | Based in India`,
+    default: "David Patrick | AI Engineer & Developer",
+    template: `%s - David Patrick | AI Engineer & Developer`,
   },
-  description: "Explore my projects and previous work, or contact me.",
+  description: "Discover my AI agent projects, automation tools, and open-source work—or get in touch to collaborate.",
 };
