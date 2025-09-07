@@ -13,7 +13,7 @@ A modern, high-performance portfolio website built with Next.js, TypeScript, and
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Aaditya-5281/Portfolio-2.0.git
+   git clone https://github.com/David-patrick-chuks/Personal-Portfolio.git
    cd Portfolio-2.0
    ```
 2. **Install dependencies:**
