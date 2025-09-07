@@ -5,23 +5,23 @@ const socialMedia = [
   },
   {
     name: "github",
-    link: "https://github.com/Aaditya-5281",
+    link: "https://github.com/David-patrick-chuks",
   },
   {
     name: "x",
-    link: "https://x.com/Aaditya26082004",
+    link: "https://x.com/david_patrick01",
   },
   {
     name: "medium",
-    link: "https://medium.com/@aadityakumar26082004",
+    link: "https://medium.com/@davypatty5686",
   },
   {
     name: "linkedin",
-    link: "https://www.linkedin.com/in/aaditya-kumar-0b662224a",
+    link: "https://www.linkedin.com/in/david-patrick-b10607209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
   },
   {
     name: "email",
-    link: "mailto:aadityakumar4042@gmail.com",
+    link: "mailto:davidchuksdev@gmail.com",
   }
 ];
 
