@@ -1,4 +1,4 @@
-# Portfolio 2.0
+# David's Portfolio
 
 A modern, high-performance portfolio website built with Next.js, TypeScript, and Tailwind CSS.
 
