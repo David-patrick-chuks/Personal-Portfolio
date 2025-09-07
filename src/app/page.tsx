@@ -29,42 +29,38 @@ export default function Home() {
         <section className="mb-6">
           <AnimateIn variant="fadeUp" delay={0.2}>
             <h1 className="text-xl font-medium tracking-tight mb-4 flex items-baseline justify-between">
-              <span>Hey, I&apos;m [Your Name]</span>
+              <span>Hey, I&apos;m David</span>
               <ThemeToggle />
             </h1>
           </AnimateIn>
           <AnimateIn variant="fadeUp" delay={0.4}>
             <p className="text-sm text-zinc-600 dark:text-zinc-400 max-w-6xl mb-8">
-              Hi, I&apos;m <b>[Your Name]</b>, a passionate coder and tech
-              enthusiast diving deep into <b>software development</b> and{" "}
-              <b>creative tech solutions</b>.
-              <br />
-              <br />I specialize in building <b>dynamic applications</b> and
-              tinkering with tools like <b>TypeScript</b>, <b>Node.js</b>, and{" "}
-              <b>React</b>, with a knack for crafting seamless user experiences.
-              My recent projects include a <b>profile picture generator</b> with
-              custom animations and a <b>WhatsApp bot</b> enhanced with text
-              formatting for engaging conversations.
-              <br />
-              <br />
-              I’ve also explored <b>file system automation</b> scripts to
-              streamline tasks like renaming music files and worked on{" "}
-              <b>multi-language support</b> for apps, ensuring accessibility
-              across English, Arabic, Hindi, and more. My experiments with{" "}
-              <b>modal interfaces</b> and <b>keyboard navigation</b> focus on
-              making apps intuitive and user-friendly.
-              <br />
-              <br />
-              My core drive is solving <b>complex, open-ended problems</b>
-              —whether it’s optimizing code, designing sleek UI components, or
-              integrating APIs for smarter workflows. I’m always learning,
-              tweaking, and pushing the boundaries of what tech can do.
-              <br />
-              <br />
-              When I’m not coding, I’m brainstorming new ways to blend{" "}
-              <b>creativity and technology</b>, from logo designs to interactive
-              features that make projects stand out.
-            </p>
+  Hi, I&apos;m <b>David Patrick</b>, a developer and problem solver exploring the 
+  intersection of <b>AI, automation</b>, and <b>creative tech</b>.
+  <br />
+  <br />I focus on building <b>AI agents</b>, <b>automation tools</b>, and 
+  <b>scalable applications</b> with technologies like <b>TypeScript</b>, 
+  <b>Node.js</b>, and <b>React</b>. Some of my recent projects include 
+  <b>Riona-AI-Agent</b> (a powerful AI automation tool), <b>Kyro</b> (social content 
+  repurposing), and <b>Director-X</b> (AI-driven creative storytelling).
+  <br />
+  <br />
+  Beyond agents, I experiment with <b>DevOps workflows</b>, <b>file system automation</b>, 
+  and <b>multi-language support</b> to make apps more efficient and accessible. 
+  I also enjoy designing <b>intuitive interfaces</b> and streamlining 
+  <b>user interactions</b> with smart navigation and automation-first features.
+  <br />
+  <br />
+  My core drive is solving <b>open-ended challenges</b>—from integrating APIs 
+  to creating <b>smarter workflows</b> that blend utility with creativity. 
+  I&apos;m always learning, experimenting, and pushing the boundaries of 
+  what tech can achieve.
+  <br />
+  <br />
+  When I&apos;m not coding, I&apos;m brainstorming new ways to merge 
+  <b>creativity and technology</b>, building tools and experiences that 
+  stand out and make an impact.
+</p>
           </AnimateIn>
 
           <AnimateIn variant="fadeUp" delay={0.6}>
